@@ -1,0 +1,14 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "name": "Chamsswitch",
+  "description": "Chams Switch Nigeria",
+  "repository": "https://github.com/angular/chamsswitch",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  }
+}

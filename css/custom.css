@@ -1,0 +1,12 @@
+/* Add here all your CSS customizations */
+.justify  {
+  text-align: justify;
+}
+
+#reverse  {
+  margin-top:-3rem;
+}
+
+.text-primary {
+  color: #a0ce4e;
+}
